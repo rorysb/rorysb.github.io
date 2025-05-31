@@ -1,7 +1,8 @@
 ---
 title: "Fallout: The Roleplaying Game"
 ---
-# WTF is it?
+![[Fallout1 1.png]]
+# WTF is it?!
 
 A roleplaying game set in the world of Fallout - dumbass... (By default the world at the start of Fallout 4 in the Commonwealth).
 
