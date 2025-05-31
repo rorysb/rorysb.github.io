@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Rory's Fallout: The Roleplaying Game rulebook",
+    pageTitle: "Rory's Fallout: The Roleplaying Game Rulebook",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
